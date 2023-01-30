@@ -1,3 +1,3 @@
-# Yelp-API-fetcher
+# CustomerX.i data science intern work
 
-This is a simple Python program that uses the Yelp API to return a restaurant's offerings and food type when entering its name and location
+This repository contains all the code that I used for my data science internship at CustomerX.i
