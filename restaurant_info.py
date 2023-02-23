@@ -2,7 +2,7 @@ import pip._vendor.requests
 import json
 
 # Put your API key here
-api_key = 'AIzaSyB8rzDHNa0MhBaBN-VKq7baPe_fox0h95c'
+api_key = 'YOUR_API_KEY'
 
 # Function to get restaurant information from Google Maps Places API
 def get_restaurant_info(place_id):
