@@ -1,3 +1,3 @@
-# CustomerX.i data science intern work
+# Data Science Projects
 
-This repository contains all the code that I used for my data science internship at CustomerX.i
+This repository contains all the code that I have used for personal data science projects 
